@@ -1,3 +1,4 @@
 My learning notes
 
 I am practicing programming and learning how to use GitHub.
+I am also learning how to organize my work using repositories and commits.
