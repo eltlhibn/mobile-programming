@@ -1,3 +1,8 @@
+/**
+ * Activity 1.3: Student Information Dashboard (JavaScript Essentials)
+ * Author: Ella Talahiban (BSCS 3B)
+ */
+
 console.log("========================================");
 console.log("     STUDENT INFORMATION DASHBOARD");
 console.log("========================================\n");

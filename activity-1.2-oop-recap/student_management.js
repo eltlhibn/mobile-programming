@@ -1,3 +1,8 @@
+/**
+ * Activity 1.2: Student Management System (OOP Recap)
+ * Author: Ella Talahiban (BSCS 3B)
+ */
+
 console.log("========================================");
 console.log("      STUDENT MANAGEMENT SYSTEM");
 console.log("========================================\n");
